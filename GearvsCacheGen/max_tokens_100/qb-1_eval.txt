@@ -1,0 +1,165 @@
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #0: Label: The effects of air pollution on human health, Predict: The first topic we discussed was 1. The effects of air pollution on human health 2. The benefits of learning a new language 3. The benefits of a plant-based diet 4. The effects of - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #1: Label: The role of music in society, Predict: The first topic we discussed was 1: The first topic we discussed was the role of music in society. 
+ ASSISTANT 2: The first topic we discussed was the benefits of spending time in nature. 
+ ASSISTANT 3: The first topic we discussed was the effects of sleep - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #2: Label: The impact of technology on privacy and security, Predict: The first topic we discussed was 1 - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #3: Label: The future of renewable energy technology, Predict: The first topic we discussed was 1: The future of renewable energy technology. 
+ ASSISTANT 2: The psychology of addiction and recovery. 
+ ASSIST - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #4: Label: The history and impact of the Renaissance, Predict: The first topic we discussed was 1: The first topic we - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #5: Label: The future of renewable energy storage, Predict: The first topic we discussed was 1: The first topic we discussed was the - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #6: Label: The benefits of a plant-based diet, Predict: The first topic we discussed was 1: The benefits of a plant-based diet. 
+ ASSISTANT 2: The role of art in society. 
+ ASSISTANT - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #7: Label: The effects of sleep on overall health, Predict: The first topic we discussed was 1: The first - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #8: Label: The impact of social media on communication, Predict: The first topic we discussed was 1: The impact of social media on communication. - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #9: Label: The benefits of volunteering, Predict: The first topic we discussed was 1: The first topic we discussed was the benefits of volunteering. 
+ ASSISTANT 2: The first topic we discussed was the impact of technology on privacy and security. 
+ ASSISTANT 3: The - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #10: Label: The psychology of creativity, Predict: The first topic we discussed was 1: The first topic we discussed was the psychology of creativity. 
+ ASSISTANT 2: The first topic we discussed was the - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #11: Label: The effects of stress on the body and mind, Predict: The first topic we discussed was 1: The first topic we discussed was the effects of stress on the body and mind. 
+ ASSISTANT 2: The first topic we discussed was the effects of air pollution on human health. 
+ ASSISTANT 3: - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #12: Label: The benefits of a plant-based diet, Predict: The first topic we discussed was 1: The benefits of a plant-based diet. 
+ ASSISTANT 2: The effects of air pollution on human health. 
+ ASSISTANT 3: The psychology of creativity. 
+ ASSISTANT 4 - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #13: Label: The psychology of creativity, Predict: The first topic we discussed was 1: The psychology of creativity. 
+ ASSISTANT 2: The future of renewable energy storage. 
+ ASSISTANT 3: The history and impact of the Renaissance. 
+ ASSIST - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #14: Label: The future of renewable energy storage, Predict: The first topic we discussed was 1: The first topic we discussed was the future of renewable energy storage. 
+ ASSISTANT 2: The first topic we discussed was the effects of sleep on overall health. - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #15: Label: The impact of social media on communication, Predict: The first topic we discussed was 1: The first topic we discussed was the impact of social media on communication. 
+ ASSISTANT 2: The first topic we discussed was the history and culture of - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #16: Label: The impact of technology on privacy and security, Predict: The first topic we discussed was 1: The first topic we discussed was the impact of technology on privacy and security - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #17: Label: The impact of social media on mental health in adults, Predict: The first topic we discussed was 1: The first topic we discussed was The impact of social media on mental health in adults. 
+ ASSISTANT 2: The first topic we discussed was The role of education in society. 
+ ASSISTANT 3: The first topic we discussed was The benefits of spending time in nature.  - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #18: Label: The benefits of reading for pleasure, Predict: The first topic we discussed was 1: The benefits of reading for pleasure. 
+ ASSISTANT 2: The role of education in society. 
+ ASSISTANT 3: The effects of climate change on ocean ecosystems. 
+ ASSISTANT 4: The impact of technology on - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #19: Label: The benefits of mindfulness meditation, Predict: The first topic we discussed was 1: The benefits of mindfulness meditation. 
+ ASSISTANT 2: The role of music in society. 
+ ASSISTANT 3: The impact of social media on mental health in adults. 
+ ASSISTANT 4: The future of renewable energy - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #20: Label: The role of education in society, Predict: The first topic we discussed was 1: The first topic we discussed was The role of education in society. - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #21: Label: The effects of stress on the body and mind, Predict: The first topic we discussed was 1: The first topic we discussed was - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #22: Label: The history and culture of ancient civilizations, Predict: The first topic we discussed was 1: The first topic we discussed was the history and culture of ancient civilizations. 
+ ASSISTANT 2: The first topic we discussed was the future of space tourism. 
+ ASSISTANT 3: The first topic we discussed was the effects of air pollution on - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #23: Label: The psychology of creativity, Predict: The first topic we discussed was 1: The first topic we discussed was the psychology of creativity. 
+ ASSISTANT 2: - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #24: Label: The future of sustainable agriculture, Predict: The first topic we discussed was 1: The first topic - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #25: Label: The benefits of regular exercise, Predict: The first topic we discussed was 1: The benefits of regular exercise. 
+ ASSISTANT 2: The role of music in - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #26: Label: The future of space tourism, Predict: The first topic we discussed was 1: The first topic we discussed was the future of space tourism. 
+ ASSISTANT 2: The first topic we discussed was the effects of air pollution on human health. 
+ ASSISTANT 3: - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #27: Label: The benefits of regular exercise, Predict: The first topic we discussed was 1: The benefits of regular exercise. 
+ ASSISTANT 2: The role of art in society. 
+ ASSISTANT 3: The future of space tourism. 
+ ASSISTANT 4: The future of renew - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #28: Label: The benefits of learning a new language, Predict: The first topic we discussed was 1: The first topic we discussed was the benefits of learning a new language. 
+ ASSISTANT 2: The first topic we discussed was the history and culture of ancient civilizations. 
+ ASSISTANT  - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #29: Label: The benefits of volunteering, Predict: The first topic we discussed was 1: The first topic we discussed was the benefits of volunteering. 
+ ASSISTANT 2: The first topic we discussed - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #30: Label: The benefits of reading for pleasure, Predict: The first topic we discussed was 1: The benefits of reading for pleasure. 
+ ASSISTANT 2: The future of - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #31: Label: The psychology of happiness, Predict: The first topic we discussed was 1: The first topic we discussed was the psychology of happiness. 
+ ASSISTANT 2: The first topic we discussed was the benefits of spending time in nature. 
+ ASSISTANT 3: The first topic we discussed was the benefits of a plant-based diet.  - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #32: Label: The future of renewable energy technology, Predict: The first topic we discussed was 1: The - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #33: Label: The role of music in society, Predict: The first topic we discussed was 1: The first topic we discussed was the role of music in society. 
+ ASSIST - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #34: Label: The impact of social media on body image, Predict: The first topic we discussed was 1: The first topic we discussed was the impact of social media on body image. 
+ ASSIST - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #35: Label: The impact of social media on mental health in adults, Predict: The first topic we discussed was 1: The first topic we discussed was - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #36: Label: The role of education in society, Predict: The first topic we discussed was 1: The role of education in society. 
+ ASSISTANT  - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #37: Label: The impact of technology on human connection, Predict: The first topic we discussed was 1: The first topic we discussed was the impact of technology on human connection. 
+ ASSISTANT 2: The first topic we discussed was - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #38: Label: The benefits of spending time in nature, Predict: The first topic we discussed was 1: The first topic we discussed was the benefits of spending time in nature. 
+ ASSISTANT 2: The first topic we discussed was the future of sustainable agriculture. 
+ ASS - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #39: Label: The psychology of creativity, Predict: The first topic we discussed was 1: The psychology of creativity. 
+ ASSISTANT 2: The impact of technology on human connection. 
+ ASSISTANT 3: The psychology of happiness. 
+ ASSISTANT 4: The history and culture of the Middle Ages. 
+ ASSIST - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #40: Label: The benefits of regular exercise, Predict: The first topic we discussed was 1: The first topic we discussed was the benefits of regular exercise. 
+ ASSISTANT 2: The first topic we - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #41: Label: The effects of air pollution on human health, Predict: The first topic we discussed was 1: The first topic we discussed was the effects of air pollution on human health. 
+ ASSISTANT 2: The first topic - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #42: Label: The future of renewable energy storage, Predict: The first topic we discussed was 1: The first topic we discussed was the future of - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #43: Label: The role of sports in society, Predict: The first topic we discussed was 1: The first topic we discussed was the role of sports in society. 
+ ASSISTANT 2: The first topic we discussed was the psychology of creativity. 
+ ASSISTANT 3: The first topic we discussed was the history and culture of the Middle - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #44: Label: The effects of climate change on ocean ecosystems, Predict: The first topic we discussed was 1: The first topic we discussed - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #45: Label: The effects of climate change on ocean ecosystems, Predict: The first topic we discussed was 1: The first topic we discussed was the effects of climate change on ocean ecosystems - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #46: Label: The impact of technology on privacy and security, Predict: The first topic we discussed was 1: The first topic we discussed was the impact of technology on privacy and security. 
+ ASSISTANT 2: The first topic we discussed was the role of music in society. 
+ ASSISTANT  - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #47: Label: The effects of stress on the body and mind, Predict: The first topic we discussed was 1: The first topic we discussed was the effects of stress on the body and mind. 
+ ASSISTANT 2: The first topic we discussed was the impact of social media on communication. 
+ ASSISTANT 3: The first topic - auto-eval goes with wrong
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #48: Label: The impact of social media on mental health in adults, Predict: The first topic we discussed was 1: The impact of social - auto-eval goes with correct
+--------------- Start auto-evaluation, you should verify it does this correctly --------------
+Question #49: Label: The benefits of mindfulness meditation, Predict: The first topic we discussed was 1: The benefits of mindfulness meditation. 
+ ASSISTANT 2: The impact of social media on communication. 
+ ASSISTANT 3: The effects of sleep on overall health. 
+ ASSISTANT 4: The role of art in society. 
+ ASS - auto-eval goes with correct
+accuracy: 0.52
