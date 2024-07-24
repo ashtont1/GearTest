@@ -109,12 +109,6 @@ for i in range(args.start_file, args.end_file):
     gen_text = tokenizer.decode(gen_tokens['sequences'][0], skip_special_tokens = True)
     #print("gen_text after first generate on ", i, ".txt: ", gen_text)
 
-    text2 = ""
-    tokenized2 = tokenizer(text2, return_tensors = "pt")
-    input_ids2 = tokenized2.input_ids.cuda()
-   
-#truncate last token of kv, and just use input_ids1 in second model.generate call
-
     generated2 = model.generate(
         input_ids1,
         max_new_tokens = 20,
