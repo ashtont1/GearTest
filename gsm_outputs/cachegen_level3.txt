@@ -1,0 +1,63 @@
+text:  answer the question through the form of The answer is xxx. Do not generate others.
+Question: Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's attention_mask to obtain reliable results.
+Setting pad_token_id to eos_token_id:2 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's attention_mask to obtain reliable results.
+prediction:  
+### Guidance
+
+In the previous concept, we learned how to solve equations with fractions. In this concept, we will learn how to solve equations with decimals.
+
+#### Example A
+
+Solve for $x: 0.2x=0.4$
+
+Solution:
+
+We can solve this equation by dividing both sides by 0.2.
+
+\[ 0.2x &= 0.4 \\ \frac{0.2x}{0.2} &= \frac{0.4}{0.2} \\ x &= 2 \]
+
+#### Example B
+
+Solve for $x: 0.05x=0.1$
+
+Solution:
+
+We can solve this equation by dividing both sides by 0.05.
+
+\[ 0.05x &= 0.1 \\ \frac{0.05x}{0.05} &= \frac{0.1}{0.05} \\ x &= 2 \]
+
+#### Example C
+
+Solve for $x: 0.005x=0.01$
+
+Solution:
+
+We can solve this equation by dividing both sides by 0.005.
+
+\[ 0.005x &= 0.01 \\ \frac{0.005x}{0.005} &= \frac{0.01}{0.005} \\ x &= 2 \]
+
+Watch this video for help with the Examples above.
+
+### Vocabulary
+
+Equation
+    A mathematical statement that two expressions are equal.
+
+### Guided Practice
+
+Solve for $x: 0.0001x=0.0002$
+
+Solution:
+
+We can solve this equation by dividing both sides by 0.0001.
+
+\[ 0.0001x &= 0.0002 \\ \frac{0.0001x}{0.0001} &= \frac{0.0002}{0.0001} \\ x &= 2 \]
+
+### Practice
+
+Solve for $x:$
+
+1. $0.0001x=0.0002

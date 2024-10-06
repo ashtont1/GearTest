@@ -1,0 +1,35 @@
+text:  answer the question through the form of The answer is xxx. Do not generate others.
+Question: Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's attention_mask to obtain reliable results.
+Setting pad_token_id to eos_token_id:2 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's attention_mask to obtain reliable results.
+prediction:  Solution:
+
+Janet’s ducks lay 16 eggs per day.
+
+She eats three for breakfast every morning and bakes muffins for her friends every day with four.
+
+She sells the remainder at the farmers' market daily for $2 per fresh duck egg.
+
+Let the number of eggs that Janet sells at the farmers' market be x.
+
+Then, the number of eggs that Janet sells at the farmers' market = x
+
+Number of eggs that Janet eats for breakfast = 3
+
+Number of eggs that Janet uses to bake muffins = 4
+
+Total number of eggs that Janet uses = 3 + 4 = 7
+
+Number of eggs that Janet sells at the farmers' market = 16 – 7 = 9
+
+∴ Janet sells 9 eggs at the farmers' market.
+
+Janet sells the remainder at the farmers' market daily for $2 per fresh duck egg.
+
+∴ Janet sells 9 eggs at the farmers' market for $2 per egg.
+
+∴ Janet sells 9 eggs at the farmers' market for $2 × 9 = $18.
+
+∴ Janet makes $18 every day at the farmers' market.
